@@ -1,4 +1,5 @@
 ExplorartoryDataProject1
 ========================
+This repository is for R scripts for the EDA Project 1.
 
-Exploratory Data Analysis Project One
+It lists the files in the order Plot1,Plot2,Plot3 and Plot4 order.
